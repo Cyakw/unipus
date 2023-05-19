@@ -1,6 +1,14 @@
 # unipus
 u校园刷时长，解放双手
 ## 操作步骤：
+<img width="681" alt="微信图片_20230519231332" src="https://github.com/Cyakw/unipus/assets/117822144/c63043d6-7f42-4037-a365-7e906f7a7135">
+
+点击code，download zip,打开js文件
+
+
+<img width="311" alt="1a31b549380b62c26d535bba75c032b" src="https://github.com/Cyakw/unipus/assets/117822144/40067c90-77d6-4f96-874d-6842922ecb00">
+
+
 1.复制代码，推荐使用edge打开油猴
 
 
